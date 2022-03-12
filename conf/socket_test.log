@@ -1,0 +1,34 @@
+2022-02-23 09:07:01.690507 ERROR  (socket_test_cat:src/socket_test_main.c:10) - Hello World
+2022-03-02 13:50:03.959925 ERROR  (socket_test_cat:src/socket_client.c:25) - socket client bind error
+2022-03-02 13:50:03.974910 ERROR  (socket_test_cat:src/socket_test_main.c:14) - Return error in File: [src/socket_test_main.c] Func: [main] Line: [14], Except 0 But Return 1.
+2022-03-02 13:57:46.710138 ERROR  (socket_test_cat:src/socket_client.c:25) - socket client bind error
+2022-03-02 13:57:54.289533 ERROR  (socket_test_cat:src/socket_client.c:25) - socket client bind error
+2022-03-02 13:58:13.499865 ERROR  (socket_test_cat:src/socket_client.c:25) - socket client bind error
+2022-03-02 14:00:11.368110 ERROR  (socket_test_cat:src/socket_client.c:25) - socket client bind error
+2022-03-02 14:13:27.390295 ERROR  (socket_test_cat:src/socket_server.c:23) - socket server bind error
+2022-03-02 14:13:48.583456 ERROR  (socket_test_cat:src/socket_test_main.c:19) - Return error in File: [src/socket_test_main.c] Func: [main] Line: [19], Except 0 But Return 1.
+2022-03-02 14:14:26.589486 ERROR  (socket_test_cat:src/socket_server.c:23) - socket server bind error
+2022-03-02 14:15:14.291152 ERROR  (socket_test_cat:src/socket_client.c:39) - socket client connect error
+2022-03-02 14:15:14.297882 ERROR  (socket_test_cat:src/socket_test_main.c:14) - Return error in File: [src/socket_test_main.c] Func: [main] Line: [14], Except 0 But Return 1.
+2022-03-02 14:15:17.202490 ERROR  (socket_test_cat:src/socket_client.c:39) - socket client connect error
+2022-03-02 14:15:17.209098 ERROR  (socket_test_cat:src/socket_test_main.c:14) - Return error in File: [src/socket_test_main.c] Func: [main] Line: [14], Except 0 But Return 1.
+2022-03-02 14:15:27.889393 ERROR  (socket_test_cat:src/socket_client.c:39) - socket client connect error
+2022-03-02 14:15:27.903505 ERROR  (socket_test_cat:src/socket_test_main.c:14) - Return error in File: [src/socket_test_main.c] Func: [main] Line: [14], Except 0 But Return 1.
+2022-03-02 14:15:52.575986 ERROR  (socket_test_cat:src/socket_client.c:39) - socket client connect error
+2022-03-02 14:16:02.542285 ERROR  (socket_test_cat:src/socket_test_main.c:14) - Return error in File: [src/socket_test_main.c] Func: [main] Line: [14], Except 0 But Return 1.
+2022-03-02 14:16:45.467777 ERROR  (socket_test_cat:src/socket_server.c:23) - socket server bind error
+2022-03-02 14:17:06.534845 ERROR  (socket_test_cat:src/socket_test_main.c:19) - Return error in File: [src/socket_test_main.c] Func: [main] Line: [19], Except 0 But Return 1.
+2022-03-02 14:28:17.813475 ERROR  (socket_test_cat:src/socket_server.c:29) - socket server bind error
+2022-03-02 14:29:19.272518 ERROR  (socket_test_cat:src/socket_server.c:29) - socket server bind error
+2022-03-02 14:30:05.234334 ERROR  (socket_test_cat:src/socket_server.c:29) - socket server bind error
+2022-03-02 14:32:52.890024 ERROR  (socket_test_cat:src/socket_server.c:29) - socket server bind error
+2022-03-02 14:40:10.899427 ERROR  (socket_test_cat:src/socket_server.c:30) - socket server bind error
+2022-03-02 14:52:06.374429 ERROR  (socket_test_cat:src/socket_server.c:30) - socket server bind error
+2022-03-02 14:56:21.661909 ERROR  (socket_test_cat:src/socket_server.c:32) - socket server bind error
+2022-03-02 14:56:25.388745 ERROR  (socket_test_cat:src/socket_test_main.c:19) - Return error in File: [src/socket_test_main.c] Func: [main] Line: [19], Except 0 But Return 1.
+2022-03-02 15:14:33.136176 ERROR  (socket_test_cat:src/socket_client.c:25) - socket client connect error
+2022-03-02 15:14:33.151496 ERROR  (socket_test_cat:src/socket_test_main.c:14) - Return error in File: [src/socket_test_main.c] Func: [main] Line: [14], Except 0 But Return 1.
+2022-03-02 15:14:41.100542 ERROR  (socket_test_cat:src/socket_client.c:25) - socket client connect error
+2022-03-02 15:14:41.106697 ERROR  (socket_test_cat:src/socket_test_main.c:14) - Return error in File: [src/socket_test_main.c] Func: [main] Line: [14], Except 0 But Return 1.
+2022-03-02 15:18:27.727577 ERROR  (socket_test_cat:src/socket_test_main.c:14) - Return error in File: [src/socket_test_main.c] Func: [main] Line: [14], Except 0 But Return 100.
+2022-03-02 15:20:44.110277 ERROR  (socket_test_cat:src/socket_test_main.c:14) - Return error in File: [src/socket_test_main.c] Func: [main] Line: [14], Except 0 But Return 100.
